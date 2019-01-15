@@ -1,6 +1,6 @@
 /*
  * NFC Key Brute Forcer
- * By: James Andrews aka th3gingerbreadman
+ * By: James Andrews
  * jandrews7348@floridapoly.edu
  * 
  * NFC BF prints to stdout currently
