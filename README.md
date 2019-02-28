@@ -1,5 +1,5 @@
 # NFC-Brute Forcer
-
+Crack basic mifare classic NFC ID card
 ## *Linux*
 1. git clone https://github.com/Nat-As/NFC-BF.git
 2. gcc NFC-BF.c
